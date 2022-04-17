@@ -7,3 +7,4 @@ wustat.windows.com
 ntservicepack.microsoft.com
 stats.microsoft.com
 windowsupdate.nsatc.net
+fe2.update.microsoft.com
